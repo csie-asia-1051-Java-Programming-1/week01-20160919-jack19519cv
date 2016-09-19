@@ -11,7 +11,6 @@ public class ex04_105021059 {
 		// TODO Auto-generated method stub
 		Scanner scn =new Scanner(System.in);
 		int a = scn.nextInt();	
-		int b = scn.nextInt();
 		
 		System.out.println(Math.sqrt(a));
 		
